@@ -1,0 +1,26 @@
+.banner {
+  display: flex;
+  background-size:cover;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 590px;
+  font-size: 20px;
+  width: 100%;
+}
+
+.btn-treehouse {
+  background-color: #66DE89;
+  border: 1px solid;
+  color: white;
+  border-color: lightgray;
+  padding: 9px 22px;
+  border-radius: 30px;
+  transition: 0.3s;
+  text-align: left;
+}
+
+.btn-treehouse:hover {
+  background-color: #4E944F;
+}
